@@ -5,7 +5,7 @@
 - 📫 How to reach me 
    - 📫 twitter: lorens247
    - 📫 telegram: lorens
-   - 📫 email: lawrence(at)ikhidero.com
+   - 📫 email: lawrence@ikhidero.com
    - 📫 Livechat: ikhidero.com
    - 📫 whatsapp:+234802380261
 
