@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lorens247
-- 👀 I’m interested in computer softwares
-- 🌱 I’m currently working on LMS
+- 👋 Hi, I’m Lawrence Ikhidero
+- 👀 I’m interested in remote jobs.
+- 🌱 I’m currently working LMS, ML & Solidity.
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me 
-     🐦 lorens247
      📧 lawrence@ikhidero.com
+     🐦 lorens247
      📞 +234802380261
      🌍 ikhidero.com
      🏠 Niger Delta, Nigeria
