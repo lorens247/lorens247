@@ -5,7 +5,7 @@
 - 📫 How to reach me 
      📧 lawrence@ikhidero.com
      🐦 lorens247
-     📞 +234802380261
+     📞 +2348023802361
      🌍 ikhidero.com
      🏠 Niger Delta, Nigeria
 <!---
