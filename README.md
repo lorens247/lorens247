@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawrence Ikhidero
 - 👀 I’m interested in remote jobs.
-- 🌱 I’m currently working LMS, ML & Solidity.
+- 🌱 I’m currently working on LMS, ML & Solidity.
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me 
      📧 lawrence@ikhidero.com
