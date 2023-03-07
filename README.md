@@ -16,5 +16,4 @@ You can click the Preview link to take a look at your changes.
  [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Lorens247&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
  
  <a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=lorens247"/></a>
-
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=lorens247&layout=compact&type=piechart"/></a>
+ 
